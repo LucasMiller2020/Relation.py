@@ -156,6 +156,8 @@ class Relation:
         """
         # for every (x, y), (y, z) and (x, z) must be in the relation
 
+        # this projects needs to be uploaded to github and if it's not there, this notes shows it to be true8
+
         # list of z elements
         zList = []
         for item in self.items:
