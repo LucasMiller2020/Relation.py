@@ -156,7 +156,9 @@ class Relation:
         """
         # for every (x, y), (y, z) and (x, z) must be in the relation
 
-        # this projects needs to be uploaded to github and if it's not there, this notes shows it to be true8
+        """ i need to work on my consistency with python but i'm at a BMW dealership right now so that's sorta
+        hard to do right now, i'll try to update my gf that i need to work on some stuff soon, but for now this will do 
+        """
 
         # list of z elements
         zList = []
