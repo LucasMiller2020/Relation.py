@@ -186,6 +186,7 @@ class Relation:
         related = set()
         for item in self.items:
             # add second item of the tuple when first item in the tuple is x
+            # I have slacked off so much i need to keep up with this so much more
             if item[0] == x and len(self.items) > 1:
                 related.add(item[1])
         return related
